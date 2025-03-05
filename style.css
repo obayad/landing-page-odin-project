@@ -8,7 +8,7 @@
     font-family: "Roboto";
 }
 
-header{
+header nav{
     display:flex;
     justify-content: space-between;
     align-items: center;
@@ -27,4 +27,50 @@ ul{
     gap:12px;
     font-size: 18px;
     color:#E5E7EB;
+}
+
+
+/* Hero section design start */
+
+.hero-section{
+    display:flex;
+    justify-content: space-around;
+    align-items: stretch;
+    gap:20px;
+    padding:124px;
+    background-color: #1F2937;
+}
+
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap:8px;
+    max-width: 500px;
+}
+
+.hero-text h1{
+    font-size: 48px;
+    font-weight: 900;
+    color:#F9FAF8;
+}
+
+.hero-text p{
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.hero-text button{
+    background-color: blue;
+    padding:8px 16px;
+    color:#F9FAF8;
+    border-radius: 8px;
+    border: none;
+}
+
+.hero-image{
+    width: 800px;
+    margin:10px;
+    background-color: grey;
 }
