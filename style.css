@@ -74,3 +74,51 @@ ul{
     margin:10px;
     background-color: grey;
 }
+
+
+/* card section start */
+
+.card-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:32px;
+    gap:20px;
+}
+
+.card-box h2{
+    font-size: 36px;
+    font-weight: 900;
+    color:#1F2937
+}
+
+.card-holder{
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap:20px;
+    text-align: center;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 160px;
+    font-size: 18px;
+    gap:8px;
+}
+
+.card-image{
+    width: 160px;
+    height: 160px;
+    border: 2px solid #689de6;
+    border-radius: 16px;
+}
+
+
+
+
+
+
+
