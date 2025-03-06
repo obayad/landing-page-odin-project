@@ -184,6 +184,16 @@ ul{
 }
 
 
+/* footer section start */
+
+footer{
+    background-color: #1F2937;
+    padding:32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
 
 
 
