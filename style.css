@@ -148,3 +148,55 @@ ul{
     font-weight: bold;
     font-size: 18px;
 }
+
+
+/* cta sectoin start */
+
+.cta-section{
+    padding: 80px 124px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cta-container{
+    background-color: #4d8ae0;
+    padding: 48px 124px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:64px;
+    border-radius: 16px;
+
+}
+
+.cta-text{
+    color:#F9FAF8;
+}
+
+.cta-container button{
+    padding: 4px 20px;
+    border:2px solid white;
+    border-radius: 4px;
+    background-color: transparent;
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
