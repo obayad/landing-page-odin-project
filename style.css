@@ -70,11 +70,14 @@ ul{
 }
 
 .hero-image{
-    width: 800px;
+    max-width: 800px;
     margin:10px;
     background-color: grey;
 }
 
+img{
+    max-width: 100%;
+}
 
 /* card section start */
 
