@@ -29,6 +29,11 @@ ul{
     color:#E5E7EB;
 }
 
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
 
 /* Hero section design start */
 
